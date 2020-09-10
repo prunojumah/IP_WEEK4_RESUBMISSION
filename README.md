@@ -32,4 +32,4 @@ Resubmission of the week 4 Independent Project
 
 ### License
 *{The project is licensed under the terms of MIT}*
-Copyright (c) {2020} **{Pruno Jumah, Njiriri Faustine}**
+Copyright (c) {2020} **{Pruno Jumah}**
